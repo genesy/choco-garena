@@ -37,7 +37,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <title>Garena</title>
     <authors>Garena</authors>
     <projectUrl>https://garena.com</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/genesy/choco-garena/master/icons/garena.png</iconUrl>
+    <iconUrl>https://i.imgur.com/nrotN0w.png</iconUrl>
     <tags>garena leagueoflegends pubg lol pubglite</tags>
     <summary>Garena client</summary>
     <description>Garena client</description>
